@@ -1,4 +1,4 @@
-# RayLim92
+# 1인 미니 프로젝트
 
 <!-- 방문자 수 표시 -->
 <div align="center">
